@@ -10,3 +10,4 @@
 
 #### 基础知识
 -[HashCode的作用](https://www.cnblogs.com/xrq730/p/4842028.html)
+-[java foreach的原理](https://blog.csdn.net/wangjun5159/article/details/61415263)
