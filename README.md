@@ -11,3 +11,6 @@
 #### 基础知识
 -[HashCode的作用](https://www.cnblogs.com/xrq730/p/4842028.html)
 -[java foreach的原理](https://blog.csdn.net/wangjun5159/article/details/61415263)
+
+### 性能优化
+-[尽量指定类、方法的final修饰符](https://www.cnblogs.com/xrq730/p/4865416.html)
