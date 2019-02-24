@@ -7,3 +7,6 @@
 
 #### 集合
 - [ArrayList中elementData为什么被transient修饰？](https://blog.csdn.net/zero__007/article/details/52166306)
+
+#### 基础知识
+-[HashCode的作用](https://www.cnblogs.com/xrq730/p/4842028.html)

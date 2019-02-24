@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
-public class ListI {
+public class List1 {
     private static int SIZE = 111111;
 
     private static void loopList(List<Integer> list)
