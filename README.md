@@ -19,6 +19,9 @@
 -  [联合索引底层存储结构](https://blog.csdn.net/u010922732/article/details/82992920)
 
 
+### 操作系统
+- [进程间的八种通信方式----共享内存是最快的 IPC 方式](https://www.cnblogs.com/wust221/p/5414839.html)
+
 ### 综合
 - [浏览器中输入URL到返回页面的全过程](https://blog.csdn.net/qq991029781/article/details/50938475)
 - [从输入URL到浏览器显示页面发生了什么](https://www.cnblogs.com/kongxy/p/4615226.html)
