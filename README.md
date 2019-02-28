@@ -7,6 +7,7 @@
 
 #### 集合
 - [ArrayList中elementData为什么被transient修饰？](https://blog.csdn.net/zero__007/article/details/52166306)
+- [优先队列底层数据结构](https://www.cnblogs.com/Elliott-Su-Faith-change-our-life/p/7472265.html)
 
 #### 基础知识
 - [HashCode的作用](https://www.cnblogs.com/xrq730/p/4842028.html)
