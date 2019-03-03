@@ -5,7 +5,8 @@ import java.util.Map;
 import java.util.concurrent.atomic.AtomicInteger;
 /**
  *
- * jdk8和jdk7扩容时都可能导致死锁
+ * jdk7扩容时都可能导致死锁
+ * jdk8在PutTreeValue时可能死循环
  * @author gaosong
  * @since 2019-02-23
  */
