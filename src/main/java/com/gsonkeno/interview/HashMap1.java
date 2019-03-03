@@ -32,7 +32,7 @@ class HashMapThread extends Thread
     @Override
     public void run()
     {
-        while (ai.get() < 100000)
+        while (ai.get() < 10000000)
         {
             map.put(ai.get(), ai.get());
             ai.incrementAndGet();
