@@ -29,6 +29,8 @@
 
 ## 分布式
 - [为什么CAP不能同时保证](https://www.zhihu.com/question/54105974)
+### redis
+- [为什么Redis集群要设置16384个槽？](https://www.phpyuan.com/282515.html)
 ## 综合
 - [浏览器中输入URL到返回页面的全过程](https://blog.csdn.net/qq991029781/article/details/50938475)
 - [从输入URL到浏览器显示页面发生了什么](https://www.cnblogs.com/kongxy/p/4615226.html)
