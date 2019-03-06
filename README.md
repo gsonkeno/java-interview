@@ -14,7 +14,7 @@
 - [java foreach的原理](https://blog.csdn.net/wangjun5159/article/details/61415263)
 - [java枚举类型的实现原理](https://blog.csdn.net/mhmyqn/article/details/48087247)
 
-###网络编程
+### 网络编程
 - [java网络编程之传统IO与伪异步IO（一）](https://blog.csdn.net/qq_33524158/article/details/78605725)
 
 ## 性能优化
@@ -28,7 +28,7 @@
 - [进程间的八种通信方式----共享内存是最快的 IPC 方式](https://www.cnblogs.com/wust221/p/5414839.html)
 
 ## 分布式
--[为什么CAP不能同时保证](https://www.zhihu.com/question/54105974)
-##综合
+- [为什么CAP不能同时保证](https://www.zhihu.com/question/54105974)
+## 综合
 - [浏览器中输入URL到返回页面的全过程](https://blog.csdn.net/qq991029781/article/details/50938475)
 - [从输入URL到浏览器显示页面发生了什么](https://www.cnblogs.com/kongxy/p/4615226.html)
