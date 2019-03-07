@@ -29,6 +29,8 @@
 
 ## 分布式
 - [为什么CAP不能同时保证](https://www.zhihu.com/question/54105974)
+- [分布式事务介绍](https://mp.weixin.qq.com/s/h1K-tjlsg5vggE4awF9Dsg)
+
 ### redis
 - [为什么Redis集群要设置16384个槽？](https://www.phpyuan.com/282515.html)
 ## 综合
