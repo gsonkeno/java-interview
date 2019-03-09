@@ -5,7 +5,7 @@
 ### 排序
 - [java sort排序源码分析（TimSort排序）](https://blog.csdn.net/tomcosin/article/details/83243455)
 
-###集合
+### 集合
 - [ArrayList中elementData为什么被transient修饰？](https://blog.csdn.net/zero__007/article/details/52166306)
 - [优先队列底层数据结构](https://www.cnblogs.com/Elliott-Su-Faith-change-our-life/p/7472265.html)
 
@@ -30,7 +30,7 @@
 ## 分布式
 - [为什么CAP不能同时保证](https://www.zhihu.com/question/54105974)
 - [分布式事务介绍](https://mp.weixin.qq.com/s/h1K-tjlsg5vggE4awF9Dsg)
-
+- [分布式事务一致性解决方案](https://yq.aliyun.com/articles/628994)
 ### redis
 - [为什么Redis集群要设置16384个槽？](https://www.phpyuan.com/282515.html)
 ## 综合
