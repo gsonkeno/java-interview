@@ -15,6 +15,9 @@
 - [java枚举类型的实现原理](https://blog.csdn.net/mhmyqn/article/details/48087247)
 
 ### 网络编程
+- [Java NIO1：I/O模型概述](https://www.cnblogs.com/xrq730/p/5074199.html)
+- [Linux下五种I/O模型详解（阻塞IO、非阻塞IO、IO复用、信号驱动、异步IO）](https://blog.csdn.net/gui951753/article/details/82348485)
+- [Linux IO模式及 select、poll、epoll详解](https://segmentfault.com/a/1190000003063859)
 - [java网络编程之传统IO与伪异步IO（一）](https://blog.csdn.net/qq_33524158/article/details/78605725)
 
 ## 性能优化
