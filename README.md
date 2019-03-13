@@ -35,6 +35,7 @@
 - [分布式事务介绍](https://mp.weixin.qq.com/s/h1K-tjlsg5vggE4awF9Dsg)
 - [分布式事务一致性解决方案](https://yq.aliyun.com/articles/628994)
 - [分布式系统的Raft算法](https://www.jdon.com/artichect/raft.html)
+
 ### redis
 - [为什么Redis集群要设置16384个槽？](https://www.phpyuan.com/282515.html)
 ## 综合
@@ -44,3 +45,4 @@
 ## 博主站点
 - [技术世界](http://www.jasongj.com/tags/Kafka/)
 - [OrcHome](http://orchome.com/)
+- [五月的仓颉](https://www.cnblogs.com/xrq730/)
