@@ -27,8 +27,13 @@
 -  [联合索引底层存储结构](https://blog.csdn.net/u010922732/article/details/82992920)
 
 
-### 操作系统
+## 操作系统
 - [进程间的八种通信方式----共享内存是最快的 IPC 方式](https://www.cnblogs.com/wust221/p/5414839.html)
+
+## 框架
+
+### netty
+- [Netty(三) 什么是 TCP 拆、粘包？如何解决？](https://zhuanlan.zhihu.com/p/41352952)
 
 ## 分布式
 - [为什么CAP不能同时保证](https://www.zhihu.com/question/54105974)
