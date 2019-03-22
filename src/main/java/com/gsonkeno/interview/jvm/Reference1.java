@@ -7,10 +7,10 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * 强引用，软引用，弱引用，虚引用
+ * 弱引用
+ * -Xms5m -Xmx10m  时抛出
+ *  Exception in thread "Thread-0" java.lang.OutOfMemoryError: GC overhead limit exceeded
  *
- * @author gaosong
- * @since 2019/3/22
  */
 public class Reference1 {
     public static void main(String[] args) {
@@ -18,17 +18,34 @@ public class Reference1 {
         WeakReference<Object> wf = new WeakReference<>(obj);
         obj = null;
         List<String> list = new ArrayList<>();
+
         new Thread(new Runnable() {
             @Override
             public void run() {
-                for (int i = 0; i < 1000000000; i++) {
-                    list.add(new String(i + ""));
+                while (true){
+                    try {
+                        Thread.sleep(1);
+                        //被垃圾回收器回收则返回null
+                        System.out.println(wf.get());
+                        //返回是否被垃圾回收器标记为即将回收的垃圾
+                        System.out.println(wf.isEnqueued());
+                    } catch (InterruptedException e) {
+                        e.printStackTrace();
+                    }
                 }
             }
         }).start();
-        //有时候会返回null
-        System.out.println(wf.get());
-        //返回是否被垃圾回收器标记为即将回收的垃圾
-        System.out.println(wf.isEnqueued());
+
+        new Thread(() -> {
+            for (int i = 0; i < 1000000000; i++) {
+
+                try{
+                    list.add(new String(i + ""));
+                    //Thread.sleep(1);
+                }catch (Exception e){
+                    System.out.println("发生异常");
+                }
+            }
+        }).start();
     }
 }
