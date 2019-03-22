@@ -23,6 +23,9 @@
 ## 性能优化
 - [尽量指定类、方法的final修饰符](https://www.cnblogs.com/xrq730/p/4865416.html)
 
+## JVM
+- [深入谈谈String.intern()在JVM的实现](https://blog.csdn.net/wangyangzhizhou/article/details/79860622)
+
 ## mysql
 -  [联合索引底层存储结构](https://blog.csdn.net/u010922732/article/details/82992920)
 
