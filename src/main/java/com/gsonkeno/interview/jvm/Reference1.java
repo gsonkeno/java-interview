@@ -8,7 +8,7 @@ import java.util.List;
 
 /**
  * 弱引用
- * -Xms5m -Xmx10m  时抛出
+ * -Xms5m -Xmx10m  -XX:+HeapDumpOnOutOfMemoryError 时抛出
  *  Exception in thread "Thread-0" java.lang.OutOfMemoryError: GC overhead limit exceeded
  *
  */
@@ -26,9 +26,9 @@ public class Reference1 {
                     try {
                         Thread.sleep(1);
                         //被垃圾回收器回收则返回null
-                        System.out.println(wf.get());
-                        //返回是否被垃圾回收器标记为即将回收的垃圾
-                        System.out.println(wf.isEnqueued());
+//                        System.out.println(wf.get());
+//                        //返回是否被垃圾回收器标记为即将回收的垃圾
+//                        System.out.println(wf.isEnqueued());
                     } catch (InterruptedException e) {
                         e.printStackTrace();
                     }
