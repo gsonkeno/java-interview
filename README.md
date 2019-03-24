@@ -25,6 +25,7 @@
 
 ## JVM
 - [深入谈谈String.intern()在JVM的实现](https://blog.csdn.net/wangyangzhizhou/article/details/79860622)
+- [Java 7之基础 - 强引用、弱引用、软引用、虚引用](https://blog.csdn.net/mazhimazh/article/details/19752475)
 
 ## mysql
 -  [联合索引底层存储结构](https://blog.csdn.net/u010922732/article/details/82992920)
