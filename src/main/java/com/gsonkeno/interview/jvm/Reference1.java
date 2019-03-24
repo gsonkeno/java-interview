@@ -1,7 +1,6 @@
 package com.gsonkeno.interview.jvm;
 
 
-
 import java.lang.ref.WeakReference;
 import java.util.ArrayList;
 import java.util.List;
@@ -9,20 +8,19 @@ import java.util.List;
 /**
  * 弱引用
  * -Xms5m -Xmx10m  -XX:+HeapDumpOnOutOfMemoryError 时抛出
- *  Exception in thread "Thread-0" java.lang.OutOfMemoryError: GC overhead limit exceeded
- *
+ * Exception in thread "Thread-0" java.lang.OutOfMemoryError: GC overhead limit exceeded
  */
 public class Reference1 {
     public static void main(String[] args) {
         Object obj = new Object();
-        WeakReference<Object> wf = new WeakReference<>(obj);
+        WeakReference<Object> wf = new WeakReference<Object>(obj);
         obj = null;
-        List<String> list = new ArrayList<>();
+        final List<String> list = new ArrayList<String>();
 
         new Thread(new Runnable() {
             @Override
             public void run() {
-                while (true){
+                while (true) {
                     try {
                         Thread.sleep(1);
                         //被垃圾回收器回收则返回null
@@ -36,14 +34,17 @@ public class Reference1 {
             }
         }).start();
 
-        new Thread(() -> {
-            for (int i = 0; i < 1000000000; i++) {
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                for (int i = 0; i < 1000000000; i++) {
 
-                try{
-                    list.add(new String(i + ""));
-                    //Thread.sleep(1);
-                }catch (Exception e){
-                    System.out.println("发生异常");
+                    try {
+                        list.add(new String(i + ""));
+                        //Thread.sleep(1);
+                    } catch (Exception e) {
+                        System.out.println("发生异常");
+                    }
                 }
             }
         }).start();

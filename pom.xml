@@ -41,7 +41,7 @@
       <artifactId>junit</artifactId>
     </dependency>
 
-    <!-- logging -->
+<!--    &lt;!&ndash; logging &ndash;&gt;
     <dependency>
       <groupId>org.apache.logging.log4j</groupId>
       <artifactId>log4j-api</artifactId>
@@ -56,7 +56,7 @@
       <groupId>org.apache.logging.log4j</groupId>
       <artifactId>log4j-slf4j-impl</artifactId>
       <scope>runtime</scope>
-    </dependency>
+    </dependency>-->
 
     <!-- testing -->
     <dependency>
@@ -64,13 +64,19 @@
       <artifactId>camel-test</artifactId>
       <scope>test</scope>
     </dependency>
+
+    <dependency>
+      <groupId>cglib</groupId>
+      <artifactId>cglib</artifactId>
+      <version>3.2.5</version>
+    </dependency>
   </dependencies>
 
   <build>
     <defaultGoal>install</defaultGoal>
 
     <plugins>
-      <plugin>
+<!--      <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-compiler-plugin</artifactId>
         <version>3.8.0</version>
@@ -78,7 +84,7 @@
           <source>1.8</source>
           <target>1.8</target>
         </configuration>
-      </plugin>
+      </plugin>-->
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-resources-plugin</artifactId>
@@ -98,6 +104,14 @@
           <includePluginDependencies>false</includePluginDependencies>
         </configuration>
       </plugin>
+        <plugin>
+            <groupId>org.apache.maven.plugins</groupId>
+            <artifactId>maven-compiler-plugin</artifactId>
+            <configuration>
+                <source>6</source>
+                <target>6</target>
+            </configuration>
+        </plugin>
 
     </plugins>
   </build>

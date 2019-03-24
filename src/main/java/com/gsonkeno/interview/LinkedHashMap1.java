@@ -5,7 +5,7 @@ import java.util.Map;
 
 public class LinkedHashMap1 {
     public static void main(String[] args) {
-        LinkedHashMap<String, String> map = new LinkedHashMap<>();
+        LinkedHashMap<String, String> map = new LinkedHashMap<String, String>();
         map.put("1","1");
         map.put("3","3");
         map.put("2","2");
