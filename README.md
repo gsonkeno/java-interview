@@ -27,11 +27,10 @@
 - [深入谈谈String.intern()在JVM的实现](https://blog.csdn.net/wangyangzhizhou/article/details/79860622)
 - [Java 7之基础 - 强引用、弱引用、软引用、虚引用](https://blog.csdn.net/mazhimazh/article/details/19752475)
 - [《深入理解Java虚拟机》（六）堆内存使用分析，垃圾收集器 GC 日志解读](https://segmentfault.com/a/1190000010648021)
+- [Java中的注解(Annotation)处理器解析](https://blog.csdn.net/yang_yang1994/article/details/79729621)
+
 ## mysql
 -  [联合索引底层存储结构](https://blog.csdn.net/u010922732/article/details/82992920)
-
-
-
 
 ## 框架
 
