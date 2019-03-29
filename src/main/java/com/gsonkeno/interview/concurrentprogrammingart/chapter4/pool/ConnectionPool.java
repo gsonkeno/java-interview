@@ -7,6 +7,7 @@ import java.util.LinkedList;
  * Created by gaosong on 2017-09-01
  */
 public class ConnectionPool {
+    /**本身是线程不安全的，但是在synchronized加锁的情况下线程安全**/
     private LinkedList<Connection> pool = new LinkedList<>();
 
     public ConnectionPool(int initialSize){

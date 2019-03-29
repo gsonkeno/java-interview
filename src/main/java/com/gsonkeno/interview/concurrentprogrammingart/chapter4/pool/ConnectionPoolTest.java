@@ -13,7 +13,7 @@ public class ConnectionPoolTest {
     static CountDownLatch end;
 
     public static void main(String[] args) throws InterruptedException {
-        int threadCount = 100;
+        int threadCount = 20;
         end = new CountDownLatch(threadCount);
 
         int count = 20;
