@@ -1,4 +1,4 @@
-package com.gsonkeno.interview.lock.concurrentprogrammingart.chapter4;
+package com.gsonkeno.interview.concurrentprogrammingart.chapter4;
 
 import java.util.concurrent.atomic.AtomicInteger;
 /**
