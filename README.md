@@ -59,6 +59,10 @@
 - [Elasticsearch写入原理深入详解](https://blog.csdn.net/laoyang360/article/details/84727820)
 - [干货 | BAT等一线大厂 Elasticsearch面试题解读](https://blog.csdn.net/laoyang360/article/details/86558214)
 
+### kafka
+- [kafka producer的发送消息的ack机制](http://orchome.com/511)
+- [kafka副本和leader选举、ISR](http://orchome.com/22)
+
 ### redis
 - [为什么Redis集群要设置16384个槽？](https://www.phpyuan.com/282515.html)
 
