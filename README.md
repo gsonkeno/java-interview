@@ -47,6 +47,16 @@
 - [分布式事务一致性解决方案](https://yq.aliyun.com/articles/628994)
 - [分布式系统的Raft算法](https://www.jdon.com/artichect/raft.html)
 
+### elasticsearch
+- [elasticsearch官方中文文档](https://www.elastic.co/guide/cn/elasticsearch/guide/current/_query_phase.html)
+- [elasticsearch的索引存储方式](https://blog.csdn.net/laoyang360/article/details/52166095)
+- [elasticsearch需要设置多少分片](https://blog.csdn.net/laoyang360/article/details/78080602)
+- [刨根问底 | Elasticsearch 5.X集群多节点角色配置深入详解](https://blog.csdn.net/laoyang360/article/details/78290484)
+- [干货 |《深入理解Elasticsearch》读书笔记](https://blog.csdn.net/laoyang360/article/details/78554610)
+- [探究 | Elasticsearch CPU高排查思路](https://blog.csdn.net/laoyang360/article/details/79874984)
+- [Elasticsearch写入原理深入详解](https://blog.csdn.net/laoyang360/article/details/84727820)
+- [干货 | BAT等一线大厂 Elasticsearch面试题解读](https://blog.csdn.net/laoyang360/article/details/86558214)
+
 ### redis
 - [为什么Redis集群要设置16384个槽？](https://www.phpyuan.com/282515.html)
 
