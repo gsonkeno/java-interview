@@ -38,7 +38,7 @@
 
 ## 框架
 ## spring
--[ring事务传播机制实例讲解](https://kingj.iteye.com/blog/1680350)
+- [ring事务传播机制实例讲解](https://kingj.iteye.com/blog/1680350)
 
 ### netty
 - [Netty(三) 什么是 TCP 拆、粘包？如何解决？](https://zhuanlan.zhihu.com/p/41352952)
@@ -79,4 +79,5 @@
 - [OrcHome](http://orchome.com/)
 - [五月的仓颉](https://www.cnblogs.com/xrq730/)
 - [javadoop](https://javadoop.com/)
+- [java进阶扫盲](https://doocs.github.io/advanced-java/#/)
 - [algorithm-study](https://github.com/randian666/algorithm-study)
