@@ -72,7 +72,8 @@
 - [浏览器中输入URL到返回页面的全过程](https://blog.csdn.net/qq991029781/article/details/50938475)
 - [从输入URL到浏览器显示页面发生了什么](https://www.cnblogs.com/kongxy/p/4615226.html)
 
-## 博主站点
+## 其他(博主站点+github)
 - [技术世界](http://www.jasongj.com/tags/Kafka/)
 - [OrcHome](http://orchome.com/)
 - [五月的仓颉](https://www.cnblogs.com/xrq730/)
+- [algorithm-study](https://github.com/randian666/algorithm-study)
