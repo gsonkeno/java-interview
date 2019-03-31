@@ -72,6 +72,9 @@
 - [死锁的四个必要条件和解决办法](https://blog.csdn.net/guaiguaihenguai/article/details/80303835)
 - [linux基础——linux线程间通信及同步机制总结](https://blog.csdn.net/a987073381/article/details/52029070)
 
+### linux
+- [CentOS的free命令](https://blog.csdn.net/for_tech/article/details/53044610)
+
 ## 综合
 - [浏览器中输入URL到返回页面的全过程](https://blog.csdn.net/qq991029781/article/details/50938475)
 - [从输入URL到浏览器显示页面发生了什么](https://www.cnblogs.com/kongxy/p/4615226.html)
