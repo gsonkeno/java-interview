@@ -34,8 +34,6 @@
 -  [联合索引底层存储结构](https://blog.csdn.net/u010922732/article/details/82992920)
 
 
-
-
 ## 框架
 ## spring
 - [ring事务传播机制实例讲解](https://kingj.iteye.com/blog/1680350)
@@ -77,6 +75,7 @@
 ## 综合
 - [浏览器中输入URL到返回页面的全过程](https://blog.csdn.net/qq991029781/article/details/50938475)
 - [从输入URL到浏览器显示页面发生了什么](https://www.cnblogs.com/kongxy/p/4615226.html)
+- [缓存更新的套路](https://coolshell.cn/articles/17416.html)
 
 ## 其他(博主站点+github)
 - [技术世界](http://www.jasongj.com/tags/Kafka/)
@@ -84,4 +83,6 @@
 - [五月的仓颉](https://www.cnblogs.com/xrq730/)
 - [javadoop](https://javadoop.com/)
 - [java进阶扫盲](https://doocs.github.io/advanced-java/#/)
+- [左耳听风陈皓](https://coolshell.cn/)
 - [algorithm-study](https://github.com/randian666/algorithm-study)
+
