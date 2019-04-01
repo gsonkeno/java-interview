@@ -42,6 +42,7 @@
 - [Netty(三) 什么是 TCP 拆、粘包？如何解决？](https://zhuanlan.zhihu.com/p/41352952)
 
 ## 分布式
+- [白话解析：一致性哈希算法 consistent hashing](http://www.zsythink.net/archives/1182)
 - [为什么CAP不能同时保证](https://www.zhihu.com/question/54105974)
 - [分布式事务介绍](https://mp.weixin.qq.com/s/h1K-tjlsg5vggE4awF9Dsg)
 - [分布式事务一致性解决方案](https://yq.aliyun.com/articles/628994)
