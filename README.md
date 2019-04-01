@@ -66,6 +66,7 @@
 - [为什么Redis集群要设置16384个槽？](https://www.phpyuan.com/282515.html)
 - [redis: 详解三种集群策略](https://blog.csdn.net/q649381130/article/details/79931791)
 - [redis单点、redis主从、redis哨兵sentinel，redis集群cluster配置搭建与使用](https://www.cnblogs.com/demingblog/p/10295236.html)
+- [一、Redis基本操作——String(原理篇)](https://www.cnblogs.com/idiotgroup/p/5450157.html)
 
 ### zookeeper
 - [基于zookeeper的分布式锁](https://blog.csdn.net/qiangcuo6087/article/details/79067136)
