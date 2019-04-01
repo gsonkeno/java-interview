@@ -84,6 +84,7 @@
 - [缓存更新的套路](https://coolshell.cn/articles/17416.html)
 
 ## 其他(博主站点+github)
+- [crossoverjie blog](https://crossoverjie.top/)
 - [技术世界](http://www.jasongj.com/tags/Kafka/)
 - [OrcHome](http://orchome.com/)
 - [五月的仓颉](https://www.cnblogs.com/xrq730/)
