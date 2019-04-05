@@ -52,6 +52,8 @@
 - [一文搞懂raft算法](https://www.cnblogs.com/xybaby/p/10124083.html)
 - [raft算法动态图](http://thesecretlivesofdata.com/raft/)
 
+- [Paxos算法详细图解](https://blog.51cto.com/12615191/2086264)
+
 ### elasticsearch
 - [elasticsearch官方中文文档](https://www.elastic.co/guide/cn/elasticsearch/guide/current/_query_phase.html)
 - [elasticsearch的索引存储方式](https://blog.csdn.net/laoyang360/article/details/52166095)
@@ -90,6 +92,7 @@
 - [缓存更新的套路](https://coolshell.cn/articles/17416.html)
 
 ## 其他(博主站点+github)
+- [jdon](https://www.jdon.com/)
 - [crossoverjie blog](https://crossoverjie.top/)
 - [技术世界](http://www.jasongj.com/tags/Kafka/)
 - [OrcHome](http://orchome.com/)
