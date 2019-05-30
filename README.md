@@ -1,60 +1,56 @@
-# java工程师面试
-
-## java基础
-
-### 排序
-- [java sort排序源码分析（TimSort排序）](https://blog.csdn.net/tomcosin/article/details/83243455)
-
-### 集合
-- [ArrayList中elementData为什么被transient修饰？](https://blog.csdn.net/zero__007/article/details/52166306)
-- [优先队列底层数据结构](https://www.cnblogs.com/Elliott-Su-Faith-change-our-life/p/7472265.html)
-
-### 基础知识
+## 1java基础
+### 1.1 基础知识
 - [HashCode的作用](https://www.cnblogs.com/xrq730/p/4842028.html)
 - [java foreach的原理](https://blog.csdn.net/wangjun5159/article/details/61415263)
 - [java枚举类型的实现原理](https://blog.csdn.net/mhmyqn/article/details/48087247)
+### 1.2 排序
+- [java sort排序源码分析（TimSort排序）](https://blog.csdn.net/tomcosin/article/details/83243455)
 
-### 网络编程
+### 1.3集合
+- [ArrayList中elementData为什么被transient修饰？](https://blog.csdn.net/zero__007/article/details/52166306)
+- [优先队列底层数据结构](https://www.cnblogs.com/Elliott-Su-Faith-change-our-life/p/7472265.html)
+
+### 1.4 网络编程
 - [Java NIO1：I/O模型概述](https://www.cnblogs.com/xrq730/p/5074199.html)
 - [Linux下五种I/O模型详解（阻塞IO、非阻塞IO、IO复用、信号驱动、异步IO）](https://blog.csdn.net/gui951753/article/details/82348485)
 - [Linux IO模式及 select、poll、epoll详解](https://segmentfault.com/a/1190000003063859)
 - [java网络编程之传统IO与伪异步IO（一）](https://blog.csdn.net/qq_33524158/article/details/78605725)
 
-## 性能优化
+### 1.5 性能优化
 - [尽量指定类、方法的final修饰符](https://www.cnblogs.com/xrq730/p/4865416.html)
 
-## JVM
+## 2 JVM
 - [深入谈谈String.intern()在JVM的实现](https://blog.csdn.net/wangyangzhizhou/article/details/79860622)
 - [Java 7之基础 - 强引用、弱引用、软引用、虚引用](https://blog.csdn.net/mazhimazh/article/details/19752475)
 - [《深入理解Java虚拟机》（六）堆内存使用分析，垃圾收集器 GC 日志解读](https://segmentfault.com/a/1190000010648021)
 - [高级开发必须理解的Java中SPI机制](https://www.jianshu.com/p/46b42f7f593c)
 - [Java中的注解(Annotation)处理器解析](https://blog.csdn.net/yang_yang1994/article/details/79729621)
 
-## mysql
+## 3 mysql
 -  [联合索引底层存储结构](https://blog.csdn.net/u010922732/article/details/82992920)
 
 
-## 框架
-## spring
+## 4 框架
+### 4.1 spring
 - [ring事务传播机制实例讲解](https://kingj.iteye.com/blog/1680350)
 
-### netty
+### 4.2 netty
 - [Netty(三) 什么是 TCP 拆、粘包？如何解决？](https://zhuanlan.zhihu.com/p/41352952)
 
-## 分布式
+## 5 分布式
 - [白话解析：一致性哈希算法 consistent hashing](http://www.zsythink.net/archives/1182)
 - [为什么CAP不能同时保证](https://www.zhihu.com/question/54105974)
 - [分布式事务介绍](https://mp.weixin.qq.com/s/h1K-tjlsg5vggE4awF9Dsg)
 - [分布式事务一致性解决方案](https://yq.aliyun.com/articles/628994)
 
-### 分布式一致性算法
+### 5.1 分布式一致性算法
 - [分布式系统的Raft算法](https://www.jdon.com/artichect/raft.html)
 - [一文搞懂raft算法](https://www.cnblogs.com/xybaby/p/10124083.html)
 - [raft算法动态图](http://thesecretlivesofdata.com/raft/)
 
 - [Paxos算法详细图解](https://blog.51cto.com/12615191/2086264)
 
-### elasticsearch
+### 5.2 elasticsearch
 - [elasticsearch官方中文文档](https://www.elastic.co/guide/cn/elasticsearch/guide/current/_query_phase.html)
 - [elasticsearch的索引存储方式](https://blog.csdn.net/laoyang360/article/details/52166095)
 - [elasticsearch需要设置多少分片](https://blog.csdn.net/laoyang360/article/details/78080602)
@@ -64,36 +60,36 @@
 - [Elasticsearch写入原理深入详解](https://blog.csdn.net/laoyang360/article/details/84727820)
 - [干货 | BAT等一线大厂 Elasticsearch面试题解读](https://blog.csdn.net/laoyang360/article/details/86558214)
 
-### kafka
+### 5.3 kafka
 - [kafka producer的发送消息的ack机制](http://orchome.com/511)
 - [kafka副本和leader选举、ISR](http://orchome.com/22)
 
-### redis
+### 5.4 redis
 - [为什么Redis集群要设置16384个槽？](https://www.phpyuan.com/282515.html)
 - [redis: 详解三种集群策略](https://blog.csdn.net/q649381130/article/details/79931791)
 - [redis单点、redis主从、redis哨兵sentinel，redis集群cluster配置搭建与使用](https://www.cnblogs.com/demingblog/p/10295236.html)
 - [一、Redis基本操作——String(原理篇)](https://www.cnblogs.com/idiotgroup/p/5450157.html)
 
-### zookeeper
+### 5.5 zookeeper
 - [基于zookeeper的分布式锁](https://blog.csdn.net/qiangcuo6087/article/details/79067136)
 
-## 操作系统
+## 6 操作系统
 - [进程间的八种通信方式----共享内存是最快的 IPC 方式](https://www.cnblogs.com/wust221/p/5414839.html)
 - [死锁的四个必要条件和解决办法](https://blog.csdn.net/guaiguaihenguai/article/details/80303835)
 - [linux基础——linux线程间通信及同步机制总结](https://blog.csdn.net/a987073381/article/details/52029070)
 
-### linux
+### 6.1 linux
 - [CentOS的free命令](https://blog.csdn.net/for_tech/article/details/53044610)
 - [linux sort 命令详解](https://www.cnblogs.com/51linux/archive/2012/05/23/2515299.html)
 
-## 网络基础
+## 7 网络基础
 - [TCP三次握手详解及释放连接过程](https://www.cnblogs.com/laowz/p/6947539.html)
-## 综合
+## 8 综合
 - [浏览器中输入URL到返回页面的全过程](https://blog.csdn.net/qq991029781/article/details/50938475)
 - [从输入URL到浏览器显示页面发生了什么](https://www.cnblogs.com/kongxy/p/4615226.html)
 - [缓存更新的套路](https://coolshell.cn/articles/17416.html)
 
-## 其他(博主站点+github)
+## 9 其他(博主站点+github)
 - [jdon](https://www.jdon.com/)
 - [crossoverjie blog](https://crossoverjie.top/)
 - [技术世界](http://www.jasongj.com/tags/Kafka/)
