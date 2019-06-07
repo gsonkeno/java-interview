@@ -60,9 +60,10 @@
 - [Elasticsearch写入原理深入详解](https://blog.csdn.net/laoyang360/article/details/84727820)
 - [干货 | BAT等一线大厂 Elasticsearch面试题解读](https://blog.csdn.net/laoyang360/article/details/86558214)
 
-### 5.3 kafka
+### 5.3 kafka && rocketMQ
 - [kafka producer的发送消息的ack机制](http://orchome.com/511)
 - [kafka副本和leader选举、ISR](http://orchome.com/22)
+- [Rocketmq源码分析（一）整体架构](https://m.aliyun.com/yunqi/articles/61141)
 
 ### 5.4 redis
 - [为什么Redis集群要设置16384个槽？](https://www.phpyuan.com/282515.html)
