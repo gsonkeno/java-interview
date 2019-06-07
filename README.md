@@ -83,8 +83,10 @@
 - [CentOS的free命令](https://blog.csdn.net/for_tech/article/details/53044610)
 - [linux sort 命令详解](https://www.cnblogs.com/51linux/archive/2012/05/23/2515299.html)
 
-## 7 网络基础
+## 7 网络基础及协议
+
 - [TCP三次握手详解及释放连接过程](https://www.cnblogs.com/laowz/p/6947539.html)
+- [http协议状态码301和302的区别](network/http协议状体码301和302的区别.md)
 ## 8 综合
 - [浏览器中输入URL到返回页面的全过程](https://blog.csdn.net/qq991029781/article/details/50938475)
 - [从输入URL到浏览器显示页面发生了什么](https://www.cnblogs.com/kongxy/p/4615226.html)
