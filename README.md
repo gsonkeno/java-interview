@@ -64,6 +64,7 @@
 - [kafka producer的发送消息的ack机制](http://orchome.com/511)
 - [kafka副本和leader选举、ISR](http://orchome.com/22)
 - [Rocketmq源码分析（一）整体架构](https://m.aliyun.com/yunqi/articles/61141)
+- [为什么Kafka速度那么快](https://www.cnblogs.com/binyue/p/10308754.html)
 
 ### 5.4 redis
 - [为什么Redis集群要设置16384个槽？](https://www.phpyuan.com/282515.html)
@@ -103,4 +104,5 @@
 - [左耳听风陈皓](https://coolshell.cn/)
 - [algorithm-study](https://github.com/randian666/algorithm-study)
 - [Edison Zhou](https://www.cnblogs.com/edisonchou/)
+- [纸上得来终觉浅](https://www.cnblogs.com/binyue)
 
