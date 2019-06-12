@@ -102,4 +102,5 @@
 - [java进阶扫盲](https://doocs.github.io/advanced-java/#/)
 - [左耳听风陈皓](https://coolshell.cn/)
 - [algorithm-study](https://github.com/randian666/algorithm-study)
+- [Edison Zhou](https://www.cnblogs.com/edisonchou/)
 
