@@ -34,6 +34,7 @@
 ### 4.1 spring
 - [sring事务传播机制实例讲解](https://kingj.iteye.com/blog/1680350)
 - [使用 FactoryBean 接口创建实例](https://cloud.tencent.com/developer/article/1362787) 
+- [Spring-涉及到的设计模式汇总](https://www.cnblogs.com/hwaggLee/p/4510687.html)
 
 ### 4.2 netty
 - [Netty(三) 什么是 TCP 拆、粘包？如何解决？](https://zhuanlan.zhihu.com/p/41352952)
