@@ -32,10 +32,14 @@
 
 ## 4 框架
 ### 4.1 spring
-- [ring事务传播机制实例讲解](https://kingj.iteye.com/blog/1680350)
+- [sring事务传播机制实例讲解](https://kingj.iteye.com/blog/1680350)
+- [使用 FactoryBean 接口创建实例](https://cloud.tencent.com/developer/article/1362787) 
 
 ### 4.2 netty
 - [Netty(三) 什么是 TCP 拆、粘包？如何解决？](https://zhuanlan.zhihu.com/p/41352952)
+
+### 4.3 dubbo
+- [Dubbo源代码实现二：服务调用的动态代理和负载均衡](https://manzhizhen.iteye.com/blog/2314514)
 
 ## 5 分布式
 - [白话解析：一致性哈希算法 consistent hashing](http://www.zsythink.net/archives/1182)
