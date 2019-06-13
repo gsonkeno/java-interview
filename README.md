@@ -40,6 +40,7 @@
 
 ### 4.3 dubbo
 - [Dubbo源代码实现二：服务调用的动态代理和负载均衡](https://manzhizhen.iteye.com/blog/2314514)
+- [dubbo基本概念40问](https://blog.csdn.net/Y0Q2T57s/article/details/83005376)
 
 ## 5 分布式
 - [白话解析：一致性哈希算法 consistent hashing](http://www.zsythink.net/archives/1182)
