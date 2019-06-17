@@ -28,6 +28,7 @@ public class App
             driver.process(apple);
         }
 
+        //获取资源的路径
         Enumeration<URL> resources = App.class.getClassLoader().getResources("META-INF/services/com.gsonkeno.appleI.AppleDriver");
         while (resources.hasMoreElements()){
             System.out.println(resources.nextElement());
