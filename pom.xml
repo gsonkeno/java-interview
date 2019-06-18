@@ -13,6 +13,7 @@
         <module>spi-apple-interface</module>
         <module>spi-apple-juice</module>
         <module>spi-apple-test</module>
+        <module>proxy-jdk</module>
     </modules>
 
     <name>A Camel Route</name>
