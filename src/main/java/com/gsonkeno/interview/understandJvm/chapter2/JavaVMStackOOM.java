@@ -1,4 +1,4 @@
-package com.gsonkeno.interview.jvm.understandJvm.chapter2;
+package com.gsonkeno.interview.understandJvm.chapter2;
 /**
  * 创建线程导致内存溢出异常
  *

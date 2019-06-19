@@ -1,4 +1,4 @@
-package com.gsonkeno.interview.jvm.understandJvm.chapter2;
+package com.gsonkeno.interview.understandJvm.chapter2;
 
 import net.sf.cglib.proxy.Enhancer;
 import net.sf.cglib.proxy.MethodInterceptor;

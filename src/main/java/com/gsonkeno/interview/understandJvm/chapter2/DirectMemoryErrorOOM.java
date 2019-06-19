@@ -1,4 +1,4 @@
-package com.gsonkeno.interview.jvm.understandJvm.chapter2;
+package com.gsonkeno.interview.understandJvm.chapter2;
 
 import sun.misc.Unsafe;
 
