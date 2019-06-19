@@ -1,8 +1,9 @@
-## 1java基础
+## 1 java基础
 ### 1.1 基础知识
 - [HashCode的作用](https://www.cnblogs.com/xrq730/p/4842028.html)
 - [java foreach的原理](https://blog.csdn.net/wangjun5159/article/details/61415263)
 - [java枚举类型的实现原理](https://blog.csdn.net/mhmyqn/article/details/48087247)
+- [Java动态代理机制详解（JDK 和CGLIB，Javassist，ASM）](https://blog.csdn.net/luanlouis/article/details/24589193)
 ### 1.2 排序
 - [java sort排序源码分析（TimSort排序）](https://blog.csdn.net/tomcosin/article/details/83243455)
 
