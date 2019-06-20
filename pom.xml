@@ -15,6 +15,7 @@
         <module>spi-apple-test</module>
         <module>proxy-jdk</module>
         <module>algo</module>
+        <module>proxy-spring-aop</module>
     </modules>
 
     <name>A Camel Route</name>
