@@ -22,6 +22,7 @@
 
 ### 1.6类加载器&反射&SPI
 - [Java SPI机制 - ServiceLoader](https://zhuanlan.zhihu.com/p/67665359)
+- [Java虚拟机类加载器及双亲委派机制](https://www.cnblogs.com/secbro/p/11759046.html)
 
 ## 2 JVM
 - [深入谈谈String.intern()在JVM的实现](https://blog.csdn.net/wangyangzhizhou/article/details/79860622)
