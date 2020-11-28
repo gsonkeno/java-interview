@@ -20,6 +20,9 @@
 ### 1.5 性能优化
 - [尽量指定类、方法的final修饰符](https://www.cnblogs.com/xrq730/p/4865416.html)
 
+### 1.6类加载器&反射&SPI
+- [Java SPI机制 - ServiceLoader](https://zhuanlan.zhihu.com/p/67665359)
+
 ## 2 JVM
 - [深入谈谈String.intern()在JVM的实现](https://blog.csdn.net/wangyangzhizhou/article/details/79860622)
 - [Java 7之基础 - 强引用、弱引用、软引用、虚引用](https://blog.csdn.net/mazhimazh/article/details/19752475)
