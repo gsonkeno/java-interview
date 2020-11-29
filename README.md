@@ -53,6 +53,7 @@
 - [为什么CAP不能同时保证](https://www.zhihu.com/question/54105974)
 - [分布式事务介绍](https://mp.weixin.qq.com/s/h1K-tjlsg5vggE4awF9Dsg)
 - [分布式事务一致性解决方案](https://yq.aliyun.com/articles/628994)
+- [分布式架构基础:Java RMI详解](https://www.jianshu.com/p/de85fad05dcb)
 
 ### 5.1 分布式一致性算法
 - [分布式系统的Raft算法](https://www.jdon.com/artichect/raft.html)
