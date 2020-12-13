@@ -104,6 +104,7 @@
 - [浏览器中输入URL到返回页面的全过程](https://blog.csdn.net/qq991029781/article/details/50938475)
 - [从输入URL到浏览器显示页面发生了什么](https://www.cnblogs.com/kongxy/p/4615226.html)
 - [缓存更新的套路](https://coolshell.cn/articles/17416.html)
+- [Java实现几种简单的重试机制](https://cloud.tencent.com/developer/article/1038304)
 
 ## 9 数据结构与算法
 - [reids为什么选择跳表来实现有序集合，而不用红黑树](https://time.geekbang.org/column/article/42896)
