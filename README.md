@@ -125,3 +125,5 @@
 - [Edison Zhou](https://www.cnblogs.com/edisonchou/)
 - [纸上得来终觉浅](https://www.cnblogs.com/binyue)
 
+## 11 优秀项目
+- [guava](https://github.com/google/guava/wiki/FunctionalExplained)
