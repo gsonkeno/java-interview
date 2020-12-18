@@ -4,8 +4,10 @@
 - [java foreach的原理](https://blog.csdn.net/wangjun5159/article/details/61415263)
 - [java枚举类型的实现原理](https://blog.csdn.net/mhmyqn/article/details/48087247)
 - [Java动态代理机制详解（JDK 和CGLIB，Javassist，ASM）](https://blog.csdn.net/luanlouis/article/details/24589193)
-### 1.2 排序
 - [java sort排序源码分析（TimSort排序）](https://blog.csdn.net/tomcosin/article/details/83243455)
+### 1.2 多线程
+- [线程池之ThreadPoolExecutor使用](https://www.jianshu.com/p/f030aa5d7a28)
+
 
 ### 1.3集合
 - [ArrayList中elementData为什么被transient修饰？](https://blog.csdn.net/zero__007/article/details/52166306)
