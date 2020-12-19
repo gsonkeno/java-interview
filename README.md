@@ -50,6 +50,10 @@
 - [Dubbo源代码实现二：服务调用的动态代理和负载均衡](https://manzhizhen.iteye.com/blog/2314514)
 - [dubbo基本概念40问](https://blog.csdn.net/Y0Q2T57s/article/details/83005376)
 
+### 4.4 guava
+- [官方wiki](https://github.com/google/guava/wiki)
+- [并发编程网guava翻译](https://ifeve.com/google-guava/)
+
 ## 5 分布式
 - [白话解析：一致性哈希算法 consistent hashing](http://www.zsythink.net/archives/1182)
 - [为什么CAP不能同时保证](https://www.zhihu.com/question/54105974)
