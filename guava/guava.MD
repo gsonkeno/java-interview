@@ -29,7 +29,7 @@
 
  --------------
 - [Iterables](https://guava.dev/releases/snapshot/api/docs/com/google/common/collect/Iterables.html)
-- []()
+- [PeekingIterator](https://guava.dev/releases/snapshot/api/docs/com/google/common/collect/PeekingIterator.html)
 - []()
 - []()
 
