@@ -26,7 +26,9 @@
 - [HashMultimap](https://guava.dev/releases/snapshot/api/docs/com/google/common/collect/HashMultimap.html)
 - [HashBasedTable](https://guava.dev/releases/snapshot/api/docs/com/google/common/collect/HashBasedTable.html)
 - [ClassToInstanceMap](https://guava.dev/releases/snapshot/api/docs/com/google/common/collect/ClassToInstanceMap.html)
-- []()
+
+ --------------
+- [Iterables](https://guava.dev/releases/snapshot/api/docs/com/google/common/collect/Iterables.html)
 - []()
 - []()
 - []()
