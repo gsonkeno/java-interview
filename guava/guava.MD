@@ -30,6 +30,6 @@
  --------------
 - [Iterables](https://guava.dev/releases/snapshot/api/docs/com/google/common/collect/Iterables.html)
 - [PeekingIterator](https://guava.dev/releases/snapshot/api/docs/com/google/common/collect/PeekingIterator.html)
-- []()
-- []()
+- [AbstractIterator](https://guava.dev/releases/snapshot/api/docs/com/google/common/collect/AbstractIterator.html)
+- [AbstractSequentialIterator](https://guava.dev/releases/snapshot/api/docs/com/google/common/collect/AbstractSequentialIterator.html)
 
