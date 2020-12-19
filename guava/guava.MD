@@ -19,4 +19,14 @@
 - [ImmutableBiMap](https://guava.dev/releases/snapshot/api/docs/com/google/common/collect/ImmutableBiMap.html)
 - [ImmutableClassToInstanceMap](https://guava.dev/releases/snapshot/api/docs/com/google/common/collect/ImmutableClassToInstanceMap.html)
 - [ImmutableTable](https://guava.dev/releases/snapshot/api/docs/com/google/common/collect/ImmutableTable.html)
+
+
+- [HashMultiset](https://guava.dev/releases/snapshot/api/docs/com/google/common/collect/HashMultiset.html)
+- [HashMultimap](https://guava.dev/releases/snapshot/api/docs/com/google/common/collect/HashMultimap.html)
 - []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
