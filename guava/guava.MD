@@ -34,4 +34,4 @@
 - [AbstractSequentialIterator](https://guava.dev/releases/snapshot/api/docs/com/google/common/collect/AbstractSequentialIterator.html)
 
 # 反射
-- [TypeToken](https://github.com/google/guava/wiki/ReflectionExplained)
+- [TypeToken,Invokable,Reflection.newProxy,ClassPath](https://github.com/google/guava/wiki/ReflectionExplained)
