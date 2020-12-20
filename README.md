@@ -7,7 +7,7 @@
 - [java sort排序源码分析（TimSort排序）](https://blog.csdn.net/tomcosin/article/details/83243455)
 ### 1.2 多线程
 - [线程池之ThreadPoolExecutor使用](https://www.jianshu.com/p/f030aa5d7a28)
-
+- [如何让一段程序并发的执行，并最终汇总结果](https://blog.csdn.net/qq_34039315/article/details/78542498)
 
 ### 1.3集合
 - [ArrayList中elementData为什么被transient修饰？](https://blog.csdn.net/zero__007/article/details/52166306)
