@@ -4,7 +4,7 @@
 - [ComparisonChain](https://guava.dev/releases/snapshot/api/docs/com/google/common/collect/ComparisonChain.html)
 
 
-## 集合
+# 集合
 - [ImmutableCollection](https://guava.dev/releases/snapshot/api/docs/com/google/common/collect/ImmutableCollection.html)
 - [ImmutableList](https://guava.dev/releases/snapshot/api/docs/com/google/common/collect/ImmutableList.html)
 - [ImmutableSet](https://guava.dev/releases/snapshot/api/docs/com/google/common/collect/ImmutableSet.html)
@@ -33,3 +33,5 @@
 - [AbstractIterator](https://guava.dev/releases/snapshot/api/docs/com/google/common/collect/AbstractIterator.html)
 - [AbstractSequentialIterator](https://guava.dev/releases/snapshot/api/docs/com/google/common/collect/AbstractSequentialIterator.html)
 
+# 反射
+- [TypeToken] (https://github.com/google/guava/wiki/ReflectionExplained)
